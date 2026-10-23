@@ -255,5 +255,4 @@ git push -u origin main
 ## 📄 License & Attribution
 
 Developed for academic and internship evaluation. Grounded in strict document analysis principles. All rights reserved.
-#   a i - d o c u m e n t - c o m p a r i s o n - a s s i s t a n t  
- 
+#
